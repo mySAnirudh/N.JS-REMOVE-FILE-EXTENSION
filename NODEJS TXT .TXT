@@ -1,0 +1,10 @@
+
+    *** Remove extension from URL ***
+
+    1/ Apply get method
+    2/ Remove an extension from URL
+    3/ Make 404 page
+    4/ Apply 404 page
+    
+
+    ** 404 :- It's means page not found 
